@@ -9,10 +9,10 @@ This section presents the initial plan for the project.
 ## Schedule
 The plan of tasks for each group member for the remainder of the project is:
 
-- Week 5: 
-- Week 6:
-- Week 7:
-- Week 8:
-- Week 9:
-- Week 10:
+- Week 5: Project planning
+- Week 6: Network design, Specifications, Hardware requirements  
+- Week 7: Cloud Services Research: Clound Srvices, Cost Estimation, feasibility of services choice.
+- Week 8: Backup Strategy Comparison: Backup plan, Backup service comparison, 
+- Week 9: Cybersecurity Risk Assessment: tvamatrix sheet, 
+- Week 10: Security Control Recommendations: modification and update in network design
 - Week 11: Submit the project

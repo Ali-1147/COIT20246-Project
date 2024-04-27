@@ -4,10 +4,15 @@ This section reflects on the success and challenges in the project and with team
 [Contributions](#contributions-of-each-member) | [Group Work](#positives-and-negatives-of-group-work) | [Recommendations](#recommended-techniques-for-group-work-in-future)| [Plan](./plan.md) | [Network Design](./network.md) | [Cloud Services](./cloud.md) | [Security](./security.md) | [Ethics](./ethics.md) | [Return to index](./README.md)
 
 ## Contributions of Each Member
-For each student in the group, state what parts they contribute to. For example "Steven did 50% of the Network Design, 90% of the security assessment and reviewed the ethical and social issues."
+
+- Samiksha did 50% of the Network Design, 60% of the cloud services, back services and security assessment and listed the ethical and social issues.
+- Vansh Patel did 50% of the Network Design, 40% of the cloud services, back services andthe security assessment and reviewed the ethical and social issues.
 
 ## Positives and Negatives of Group Work
-List what worked well and what issues did you encounter. 
+- The groups consisted of two memebrs.
+- Both memebers cooperated each other and contributed effectively towrads the project.
 
 ## Recommended Techniques for Group Work in Future
-List the recommended techniques and explain what problem the technique may solve.
+Virtual Communication: As remote work becomes more common, effective communication through online channels will be crucial. 
+- Data-driven Decision Making:  Data analytics will play an increasingly important role in group work. 
+- Teams will utilize data to make informed decisions, track progress, and measure the effectiveness of their strategies.

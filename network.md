@@ -54,15 +54,15 @@ Additional Considerations:
 •	Scalability: Choose equipment that can be easily scaled up as your business grows and the number of users increases
 
 ## List of Recommended Hradware
-Essential Hardware:
-•	Multiple Wireless Access Points (APs):
+- Essential Hardware:
+- Multiple Wireless Access Points (APs):
 •	models with features like band steering, MU-MIMO (for better multi-user performance), and mesh capabilities for seamless coverage.
 •	Gigabit Ethernet Switches: one or more Gigabit Ethernet switches depending on the number of wired devices and APs. Choose a switch with enough ports to accommodate your current and future needs.
 •	Ethernet Cables: Cat5e or Cat6 Ethernet cables are recommended for reliable wired connections between your devices, switches, and APs.
-Optional Hardware:
+- Optional Hardware:
 •	Wireless Router (if not integrated with your APs): A separate router to connect yur network to the internet service provider (ISP).
 •	Network Management System: This is software that helps to monitor network performance, troubleshoot issues, and manage your APs centrally. While not essential, it simplifies network management for larger deployments.
-Additional Considerations:
+- Additional Considerations:
 •	PoE (Power over Ethernet) Switches: If we chosen APs support PoE, we can eliminate the need for separate power outlets for each AP. PoE delivers power over the same Ethernet cable used for data transmission.
 •	Patch Panel (Optional): A patch panel helps organize network cables in a rack-mounted setup, improving aesthetics and manageability (especially for larger deployments).
 
